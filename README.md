@@ -1,16 +1,14 @@
-### Hi there 👋
+### Daniel Wilcox
 
-<!--
-**DWilcox02/DWilcox02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- How to reach me:  
+Email: danielgwilcox@gmail.com  
+LinkedIn: https://www.linkedin.com/in/daniel-wilcox-2b5111214/  
 
-Here are some ideas to get you started:
+- Currently working on:  
+Cryptocurrency indicators using python webscraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Looking to:  
+Work as an intern or trainee where I can develop new skills, both practical and inter-personal, in a professional workplace environment. More information on my LinkedIn
+
+- Top languages:  
+Python, Java
