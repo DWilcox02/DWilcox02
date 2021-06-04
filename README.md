@@ -10,5 +10,5 @@ Cryptocurrency indicators using python webscraping
 - Looking to:  
 Work as an intern or trainee where I can develop new skills, both practical and inter-personal, in a professional workplace environment. More information on my LinkedIn
 
-- Top languages:  
-Python, Java
+- Skills:  
+Python, Java, Linux Servers, Webscraping, Excel dataframes, Arduino
