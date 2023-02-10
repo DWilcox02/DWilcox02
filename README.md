@@ -11,4 +11,4 @@ Cryptocurrency indicators using python webscraping
 Work experience where I can develop new skills, both practical and inter-personal, in a professional workplace environment. More information on my LinkedIn
 
 - Skills:  
-Python, Kotlin, Haskell, Java, Webscraping, Excel dataframes, Arduino
+Python, Kotlin, Haskell, Java, React, Webscraping
