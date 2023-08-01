@@ -5,10 +5,7 @@ Email: danielgwilcox@gmail.com
 LinkedIn: https://www.linkedin.com/in/daniel-wilcox-2b5111214/  
 
 - Currently working on:  
-Cryptocurrency indicators using python webscraping
-
-- Looking for:  
-Work experience where I can develop new skills, both practical and inter-personal, in a professional workplace environment. More information on my LinkedIn
+Full stack typescript development
 
 - Skills:  
-Python, Kotlin, Haskell, Java, React, Webscraping
+Java, Kotlin, Haskell, C, Typescript, Scala, React, Webscraping
