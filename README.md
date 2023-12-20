@@ -6,7 +6,7 @@
 - LinkedIn: https://www.linkedin.com/in/daniel-wilcox-2b5111214/  
 
 ### Currently working on:  
-Scala and Firebase for back-end projects. Typescript, React, TailwindCSS for front-end
+Harmonise - Real-time playlist synchronisation between Spotify and Apple Music
 
 ### Skills:  
-Java, Kotlin, Haskell, C, Typescript, Javascript, Scala, React, Webscraping
+Java, C, Kotlin, Haskell, Typescript, Javascript, React, Firebase
