@@ -9,4 +9,4 @@
 Harmonise - Real-time playlist synchronisation between Spotify and Apple Music
 
 ### Skills:  
-Java, C, Kotlin, Haskell, Typescript, Javascript, React, Firebase
+Python, Java, Scala, C, Kotlin, Haskell, Typescript, Javascript, React, Firebase
