@@ -6,7 +6,7 @@
 - LinkedIn: https://www.linkedin.com/in/daniel-wilcox-2b5111214/  
 
 ### Currently working on:  
-Harmonise - Real-time playlist synchronisation between Spotify and Apple Music
+BeeTracker (Final Year Thesis) - Dense object tracking for Honeybees using point cloud and Kalman filtering computer vision methods
 
 ### Skills:  
-Python, Java, Scala, C, Kotlin, Haskell, Typescript, Javascript, React, Firebase
+Python, Scala, Java, C, C++, Kotlin, Haskell, Typescript, Javascript, React, Firebase
